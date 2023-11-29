@@ -14,6 +14,6 @@ sudo apt install openjdk-17-jre -y
 
 git clone https://github.com/edu-correa/jar-looca-sprint3.git
 cd jar-looca-sprint3
-java -jar apiLooca-1.0-SNAPSHOT-jar-with-dependencies.jar
+java -jar apiLooca-1.0-SNAPSHOT-jar-with-dependenciesFinal.jar
 
 
